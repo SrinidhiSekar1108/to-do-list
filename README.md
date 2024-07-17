@@ -28,3 +28,6 @@ npm install pg
 ```sh
 nodemon index.js
 ```
+
+![image](https://github.com/user-attachments/assets/c007547c-6b81-4294-ab1f-308e1529889c)
+
